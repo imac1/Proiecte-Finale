@@ -1,0 +1,5 @@
+ana 5
+bna 56
+fog 3
+red 2
+blu 1
